@@ -1,0 +1,243 @@
+[
+    {
+        "title": "Overall",
+        "data": [
+            {
+                "Name": "All Commuters",
+                "Day": 88.92,
+                "Evening": 7.84,
+                "Night": 3.24
+            }
+        ]
+    },
+    {
+        "title": "Sex",
+        "data": [
+            {
+                "Name": "Male",
+                "Day": 88.78,
+                "Evening": 7.49,
+                "Night": 3.73
+            },
+            {
+                "Name": "Female",
+                "Day": 89.06,
+                "Evening": 8.22,
+                "Night": 2.72
+            }
+        ]
+    },
+    {
+        "title": "Low-Income Status",
+        "data": [
+          {
+            "Name": "Not on a low income",
+            "Day": 89.37,
+            "Evening": 7.46,
+            "Night": 3.17
+          },
+          {
+            "Name": "Have a low income",
+            "Day": 80.44,
+            "Evening": 14.87,
+            "Night": 4.68
+          }
+
+        ]
+    },
+    {
+        "title": "Visibile Minority",
+        "data": [
+            {
+              "Name": "South Asian",
+              "Day": 84.31,
+              "Evening": 10.99,
+              "Night": 4.70
+            },
+            {
+              "Name": "Chinese",
+              "Day": 90.09,
+              "Evening": 7.72,
+              "Night": 2.19
+            },
+            {
+              "Name": "Black",
+              "Day": 79.90,
+              "Evening": 13.02,
+              "Night": 7.08
+            },
+            {
+              "Name": "Filipino",
+              "Day": 77.44,
+              "Evening": 15.22,
+              "Night": 7.34
+            },
+            {
+              "Name": "Latin American",
+              "Day": 85.97,
+              "Evening": 10.23,
+              "Night": 3.80
+            },
+            {
+              "Name": "Middle Eastern",
+              "Day": 86.61,
+              "Evening": 9.42,
+              "Night": 3.97
+            },
+            {
+              "Name": "Southeast Asian",
+              "Day": 85.43,
+              "Evening": 10.74,
+              "Night": 3.83
+            },
+            {
+              "Name": "West Asian",
+              "Day": 87.54,
+              "Evening": 9.53,
+              "Night": 2.93
+            },
+            {
+              "Name": "Korean and Japanese",
+              "Day": 87.50,
+              "Evening": 10.04,
+              "Night": 2.46
+            },
+            {
+              "Name": "Another group",
+              "Day": 85.58,
+              "Evening": 9.89,
+              "Night": 4.53
+            },
+            {
+              "Name": "Indigenous",
+              "Day": 84.47,
+              "Evening": 11.07,
+              "Night": 4.46
+            },
+            {
+              "Name": "White",
+              "Day": 90.25,
+              "Evening": 6.92,
+              "Night": 2.83
+            },
+            {
+              "Name": "Multiple visible minorities",
+              "Day": 87.73,
+              "Evening": 8.52,
+              "Night": 3.74
+            }
+          ]
+    },
+    {
+        "title": "Immigrants",
+        "data": [
+            {
+              "Name": "Not an immigrant",
+              "Day": 89.98,
+              "Evening": 7.11,
+              "Night": 2.92
+            },
+            {
+              "Name": "Before 1996",
+              "Day": 88.01,
+              "Evening": 8.41,
+              "Night": 3.58
+            },
+            {
+              "Name": "1996-2000",
+              "Day": 86.83,
+              "Evening": 9.22,
+              "Night": 3.95
+            },
+            {
+              "Name": "2001-2005",
+              "Day": 86.34,
+              "Evening": 9.48,
+              "Night": 4.18
+            },
+            {
+              "Name": "2006-2010",
+              "Day": 83.71,
+              "Evening": 11.35,
+              "Night": 4.94
+            },
+            {
+              "Name": "2011-2016",
+              "Day": 81.56,
+              "Evening": 13.16,
+              "Night": 5.28
+            },
+            {
+              "Name": "Non-PR",
+              "Day": 84.17,
+              "Evening": 11.71,
+              "Night": 4.12
+            }
+        ]
+    },
+    {
+        "title": "Employment Sector",
+        "data": [
+            {
+              "Name": "Management",
+              "Day": 94.14,
+              "Evening": 4.18,
+              "Night": 1.69
+            },
+            {
+              "Name": "Business and Finance",
+              "Day": 95.30,
+              "Evening": 3.40,
+              "Night": 1.30
+            },
+            {
+              "Name": "Sciences",
+              "Day": 96.03,
+              "Evening": 2.70,
+              "Night": 1.27
+            },
+            {
+              "Name": "Health",
+              "Day": 83.48,
+              "Evening": 10.85,
+              "Night": 5.67
+            },
+            {
+              "Name": "Education, law, social services and government",
+              "Day": 93.37,
+              "Evening": 4.97,
+              "Night": 1.65
+            },
+            {
+              "Name": "Arts, culture, entertainment",
+              "Day": 84.40,
+              "Evening": 12.87,
+              "Night": 2.74
+            },
+            {
+              "Name": "Sales and services",
+              "Day": 79.39,
+              "Evening": 15.60,
+              "Night": 5.02
+            },
+            {
+              "Name": "Trades and transportation",
+              "Day": 89.52,
+              "Evening": 6.41,
+              "Night": 4.07
+            },
+            {
+              "Name": "Natural resources and agriculture",
+              "Day": 91.99,
+              "Evening": 3.85,
+              "Night": 4.16
+            },
+            {
+              "Name": "Manufacturing and utilities",
+              "Day": 81.59,
+              "Evening": 12.41,
+              "Night": 5.99
+            }
+        ]
+    } 
+]

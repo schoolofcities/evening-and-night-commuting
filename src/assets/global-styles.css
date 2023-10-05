@@ -42,7 +42,7 @@ body {
 main {
     margin: 0 auto;
     width: calc(100% - 40px);
-    min-width: 420px;
+    min-width: 400px;
     max-width: 1300px;
     position: relative;
 }
@@ -53,7 +53,7 @@ main {
     margin: 0 auto;
     padding-bottom: 15px;
     padding-top: 50px;
-    border-bottom: dotted 3px var(--brandPurple);
+    border-bottom: solid 1px var(--brandPurple);
     position: relative;
     padding-left: 15px;
     padding-right: 15px;
