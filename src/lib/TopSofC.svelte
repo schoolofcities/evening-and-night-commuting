@@ -1,5 +1,6 @@
 <script>
 	import logo from '/src/assets/top-logo-full.svg';
+	import mjlogo from '/src/assets/mj-logo.svg';
 	import "/src/assets/global-styles.css"
 </script>
 
@@ -7,6 +8,7 @@
 
 	<div id="logo">
 		<a href="https://www.schoolofcities.utoronto.ca/"><img src={logo} alt="School of Cities"></a>
+		<a href="https://mobilizingjustice.ca/"><img src={mjlogo} alt="Mobilizing Justice"></a>
 	</div>
 	<p> School of Cities </p>
 </div>
@@ -30,7 +32,7 @@
 
 	#logo {
 		margin: auto;
-		max-width: 230px;
+		max-width: 360px;
 		height: 50px;
 		z-index: 6;
 		/* background-color: aquamarine; */
