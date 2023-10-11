@@ -80,8 +80,9 @@ h1 {
 h2 {
     text-align: left;
     font-family: TradeGothicBold;
-    font-size: 30px;
-    color: var(--brandYellow);
+    font-size: 28px;
+    border-bottom: solid 1px var(--brandDarkGreen);
+    color: var(--brandWhite);
 }
 
 h3 {
@@ -100,17 +101,24 @@ p {
     line-height: 25px;
 }
 
+.bold {
+    background-color: var(--brandPurple);
+    font-family: RobotoBold;
+}
+
 .note {
     margin-top: -12px;
     font-size: 14px;
 }
 
 a {
-    color: var(--brandWhite);
+    color: var(--brandLightBlue);
     text-decoration: underline;
+    font-family: RobotoBold;
+
 }
 a:hover {
-    color: var(--brandLightBlue);
+    color: var(--brandYellow);
 }
 
 .topImg {
