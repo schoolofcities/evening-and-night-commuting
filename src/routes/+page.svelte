@@ -17,7 +17,7 @@
         <div class="title-columns">
             <div class="left-title">
                 <h1>Transportation Justice for Night and Evening Shift Workers in Canada</h1>
-                <p>Matt Palm & Jeff Allen</p>
+                <p><a href="https://planning.unc.edu/faculty/palm/">Matthew Palm</a> & <a href="https://jamaps.github.io">Jeff Allen</a></p>
                 <p>October 2023</p>
             </div>
             <div class="right-title">
@@ -78,23 +78,23 @@
 
         <p>
             We then sought out to analyze how working evening and night shifts varies among different demographic groups. 
-            The General Social Survey is a relatively small sample, so we decided to use the Canadian long-form census, a 25% of all Canadians. We are able to identify night and evening shift workers in the 2016 Canadian census, based on self-reported arrival time, and the classification above. Our findings show that fewer than 10% of Canadians were engaged in night or evening shifts at the census time, however this varies for different demographic groups.
+            The General Social Survey is a relatively small sample, so we decided to use the Canadian long-form census, a 25% of all Canadians. We are able to identify night and evening shift workers in the 2016 Canadian Census, based on self-reported arrival time, and the classification described above. Our findings show that slightly less than 10% of Canadians were engaged in night or evening shifts, but this varies substantially for different demographic groups.
         </p>
         <Bar variable="Overall"/>
         <p>
-            <span class="bold">Income & Employment Patterns:</span> Night and evening shift workers, like their counterparts in the UK and US, often have lower incomes in Canada. This trend persists even after statistical adjustments. 
+            <span class="bold">_ Income & Employment Patterns:</span> Night and evening shift workers often have lower incomes in Canada. Similar trends have been noted in the United States and the United Kingdom.
         </p>
         <Bar variable="Low-Income Status"/>
         <p>
-            <span class="bold">Ethnic & Indigenous Representation:</span> Black, Filipino, South Asian, and Indigenous individuals are notably more inclined towards night and evening shifts, as visualized in our data charts. 
+            <span class="bold">_ Ethnic & Indigenous Representation:</span> Black, Filipino, South Asian, and Indigenous individuals are notably more inclined towards night and evening shifts.
         </p>
         <Bar variable="Visible Minority"/>
         <p>
-            <span class="bold">Immigrant Workers:</span> Newer immigrants have a higher propensity for these shifts. Over time, their work patterns begin to mirror that of people born in Canada. 
+            <span class="bold">_ Immigrant Workers:</span> Newer immigrants have a higher propensity for these shifts as well. Over time, their work patterns begin to mirror that of people born in Canada. 
         </p>
         <Bar variable="Immigrants"/>
         <p>
-            <span class="bold">Sectors of Employment:</span> Evening workers are overrepresented in sales, services, arts, culture, manufacturing, and utilities, while night shift workers are more concentrated in vital areas like health and manufacturing or utilities. 
+            <span class="bold">_ Sectors of Employment:</span> Evening workers are overrepresented in sales, services, arts, culture, manufacturing, and utilities, while night shift workers are more concentrated in vital areas like health and manufacturing or utilities. 
         </p>
         <Bar variable="Employment Sector"/>
 
