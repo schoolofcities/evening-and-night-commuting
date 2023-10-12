@@ -3,7 +3,9 @@
     import TopSofC from "../lib/TopSofC.svelte";
     import Bar from "../lib/Bar.svelte";
     import "../assets/global-styles.css";
-    import moon from '../lib/moon.svg';
+    import moon from '../assets/moon.svg';
+    import clockAM from '../assets/clock-am.svg';
+    import clockPM from '../assets/clock-pm.svg';
     
 </script>
 
@@ -28,7 +30,7 @@
         <h2>Why is Transportation Justice Important for Shift Workers?</h2>
         
         <p>
-            <span class="bold">1) Safety:</span> Shift workers face higher chances of vehicle accidents. Offering them alternative commuting options can potentially reduce the number of road injuries or fatalities, reinforcing public health efforts. 
+            <span class="bold">1) Safety:</span> Shift workers face higher chances of vehicle collisions. Offering them alternative commuting options can potentially reduce the number of road injuries or fatalities, reinforcing public health efforts. 
         </p>
         <p>  
             <span class="bold">2) Health & Social Integration:</span> Shift work is linked with adverse physical and mental health consequences and heightened feelings of social isolation. Enhancing these workers’ access to social and economic opportunities can help address these issues.
@@ -40,25 +42,35 @@
         <h2>Understanding Shifts?</h2>
 
         <p>
-            Deciphering who exactly works shifts can be tricky, mainly because primary data sources, like the long-form Census, lack standard questions about workers' schedules. We overcame this limitation by cross-referencing with the Canadian General Social Survey's Time Use wave. This approach helped us categorize workers into three shifts based on their work arrival time:
+            Deciphering who exactly works shifts can be tricky, mainly because primary data sources, like the long-form Census, lack standard questions about workers' schedules. We overcame this limitation by cross-referencing with the Canadian General Social Survey's Time Use wave. This approach helped us categorize workers into three shifts based on their work arrival time: 
+        </p> 
+       
+        <img width=150 height=150 src={clockAM} alt="clockAM" style="margin-right: 30px;">
+        <img width=150 height=150 src={clockPM} alt="clockPM">
+        <p> 
+            <svg width="12" height="12">
+                <rect width="12" height="12" fill="#0D534D" />
+            </svg>   
+            Day shifts arrive between 4am and noon
         </p> 
         <p>
-                <li>
-                    Day (4 am - noon)
-                </li> 
-                <li>
-                    Evening (noon - 7:30 pm)
-                </li> 
-                <li>
-                    Night (7:30 pm - 4 am).
-                </li>
-        </p>
+            <svg width="12" height="12">
+                <rect width="12" height="12" fill="#6FC7EA" />
+            </svg>   
+            Evening shifts arrive between noon and 7:30pm
+        </p> 
+        <p>    
+            <svg width="12" height="12">
+                <rect width="12" height="12" fill="#F1C500" />
+            </svg>   
+            Night shifts arrive between 7:30pm and 4am.
+        </p> 
 
 
         <h2>Demographics of Shift Workers</h2>
 
         <p>
-            Our findings suggest that fewer than 10% of Canadians were engaged in night or evening shifts at the census time. 
+            Our findings show that fewer than 10% of Canadians were engaged in night or evening shifts at the census time. 
         </p>
         <Bar variable="Overall"/>
         <p>

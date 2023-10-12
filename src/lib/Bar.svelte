@@ -61,10 +61,10 @@
         <text x="{width / 2}" y="40" font-size="14" fill="#D0D1C9" text-anchor="middle">Percent of all journey-to-work trips</text>
 
         <rect id="eveningbar" width="10" height="20" x="0" y ="45"/>
-        <text x="15" y="60" font-size="14" fill="#D0D1C9" text-anchor="left">Evening Trips</text>
+        <text x="15" y="60" font-size="14" fill="#D0D1C9" text-anchor="left">Evening Shifts</text>
 
         <rect id="nightbar" width="10" height="20" x="110" y ="45"/>
-        <text x="125" y="60" font-size="14" fill="#D0D1C9" text-anchor="left">Night Trips</text>
+        <text x="125" y="60" font-size="14" fill="#D0D1C9" text-anchor="left">Night Shifts</text>
 
     </svg>
 
