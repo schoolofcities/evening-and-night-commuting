@@ -20,11 +20,10 @@
 
 <div class="bar" bind:clientWidth={width}>
 
-    
 
-    <svg width="100%" height="25">
-        <text x="0" y="14" font-size="18" fill="#8DBF2E">{filteredData.title}</text>
-        <line id="borderline" x1="0" y1="22" x2="{width}" y2="22"></line>
+    <svg width="100%" height="7">
+        <!-- <text x="0" y="14" font-size="18" fill="#8DBF2E">{filteredData.title}</text> -->
+        <line id="borderline" x1="0" y1="2" x2="{width}" y2="2"></line>
     </svg>
 
     {#each filteredData.data as item}
@@ -44,7 +43,7 @@
 
     {/each}
 
-    <svg width="100%" height="65">
+    <svg width="100%" height="105">
         <line id="xaxis" x1="0" y1="1" x2="{width}"  y2="1"></line>
 
         <line id="xaxis" x1="1" y1="1" x2="1"  y2="8"></line>
@@ -93,7 +92,7 @@
         fill: var(--brandWhite);
     }
     #borderline {
-        stroke: var(--brandLightGreen);
+        stroke: var(--brandPink);
         stroke-width:1
     }
     #xaxis {

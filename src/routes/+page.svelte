@@ -3,6 +3,7 @@
     import TopSofC from "../lib/TopSofC.svelte";
     import Bar from "../lib/Bar.svelte";
     import "../assets/global-styles.css";
+    import moon from '../lib/moon.svg';
     
 </script>
 
@@ -10,9 +11,14 @@
 
 <main>
     <div class="title">
-        <h1>Evening & Night Commuting</h1>
-        <p>Matt Palm & Jeff Allen</p>
-        <p>October 2023</p>
+        <div class="left-title">
+            <h1>Transportation Justice for Night and Evening Shift Workers in Canada</h1>
+            <p>Matt Palm & Jeff Allen</p>
+            <p>October 2023</p>
+        </div>
+        <div class="right-title">
+            <img width=100 height=100 src={moon} alt="moon">
+        </div>
     </div>
     <div class="text">
         <p>
@@ -56,19 +62,19 @@
         </p>
         <Bar variable="Overall"/>
         <p>
-            Night and evening shift workers, like their counterparts in the UK and US, often have lower incomes in Canada. This trend persists even after statistical adjustments. 
+            <span class="bold">Income & Employment Patterns:</span> Night and evening shift workers, like their counterparts in the UK and US, often have lower incomes in Canada. This trend persists even after statistical adjustments. 
         </p>
         <Bar variable="Low-Income Status"/>
         <p>
-           Black, Filipino, South Asian, and Indigenous individuals are notably more inclined towards night and evening shifts, as visualized in our data charts. 
+            <span class="bold">Ethnic & Indigenous Representation:</span> Black, Filipino, South Asian, and Indigenous individuals are notably more inclined towards night and evening shifts, as visualized in our data charts. 
         </p>
-        <Bar variable="Visibile Minority"/>
+        <Bar variable="Visible Minority"/>
         <p>
             <span class="bold">Immigrant Workers:</span> Newer immigrants have a higher propensity for these shifts. Over time, their work patterns begin to mirror that of people born in Canada. 
         </p>
         <Bar variable="Immigrants"/>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <span class="bold">Sectors of Employment:</span> Evening workers are overrepresented in sales, services, arts, culture, manufacturing, and utilities, while night shift workers are more concentrated in vital areas like health and manufacturing or utilities. 
         </p>
         <Bar variable="Employment Sector"/>
     </div>

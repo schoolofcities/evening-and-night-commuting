@@ -52,11 +52,22 @@ main {
     max-width: 750px;
     margin: 0 auto;
     padding-bottom: 15px;
-    padding-top: 50px;
+    padding-top: 100px;
     border-bottom: solid 1px var(--brandPurple);
     position: relative;
     padding-left: 15px;
     padding-right: 15px;
+    display: flex;
+}
+
+.left-title {
+    width: calc(100%);
+}
+.right-title {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    padding-top: 30px;
 }
 
 
@@ -73,8 +84,8 @@ h1 {
     font-family: TradeGothicBold;
     font-size: 36px;
     color: var(--brandWhite);
-    text-decoration: underline;
-    padding-top: 50px;
+    text-decoration: none;
+    padding-top: 0px;
 }
 
 h2 {
