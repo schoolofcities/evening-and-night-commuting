@@ -44,6 +44,7 @@ main {
     width: calc(100% - 40px);
     min-width: 400px;
     max-width: 1300px;
+    margin-bottom: 100px;
     position: relative;
 }
 
@@ -51,12 +52,15 @@ main {
     background-color: none;
     max-width: 750px;
     margin: 0 auto;
-    padding-bottom: 15px;
+    margin-bottom: 30px;
+    padding-bottom: 0px;
     padding-top: 100px;
     border-bottom: solid 1px var(--brandPurple);
     position: relative;
     padding-left: 15px;
     padding-right: 15px;
+}
+.title-columns {
     display: flex;
 }
 
@@ -93,6 +97,7 @@ h2 {
     font-family: TradeGothicBold;
     font-size: 28px;
     border-bottom: solid 1px var(--brandDarkGreen);
+    margin-top: 50px;
     color: var(--brandWhite);
 }
 
