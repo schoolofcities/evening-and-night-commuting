@@ -30,7 +30,7 @@
     <div class="text">
         
         <p>
-            Night and evening shift workers play pivotal roles in our economy, keeping the lights on in sectors like healthcare, emergency services, public safety, logistics, and infrastructure. Yet, a gap exists in the research dedicated to understanding their transportation needs from a justice standpoint. Our recent <a href="https://doi.org/10.1016/j.trd.2023.103875">study</a> seeks to bridge this discrepancy. 
+            Night and evening shift workers play pivotal roles in our economy, keeping the lights on in sectors like healthcare, emergency services, public safety, logistics, and infrastructure. Yet, a gap exists in the research dedicated to understanding their transportation needs from a justice standpoint. Our <a href="https://doi.org/10.1016/j.trd.2023.103875">recent study</a> seeks to bridge this discrepancy. 
         </p>
 
         <h2>Why is Transportation Justice Important for Shift Workers?</h2>
@@ -49,7 +49,7 @@
 
         <p>
             
-            The Canadian General Social Survey's <a href="https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4503">Time Use</a> data asks whether people work day, evening, or night shifts as well as their work arrival time. We use these to create a classification of shift type based on work arrival times.
+            The Canadian General Social Survey's <a href="https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4503">Time Use</a> wave asks whether people work day, evening, or night shifts as well as their work arrival time. We use these two data points to create a classification of shifts based on work arrival times.
         </p> 
        
         <img width=150 height=150 src={clockAM} alt="clockAM" style="margin-right: 30px;">
@@ -70,7 +70,7 @@
             <svg width="12" height="12">
                 <rect width="12" height="12" fill="#F1C500" />
             </svg>   
-            Night shifts arrive between 7:30pm and 4am.
+            Night shifts arrive between 7:30pm and 4am
         </p> 
 
 
@@ -78,7 +78,7 @@
 
         <p>
             We then sought out to analyze how working evening and night shifts varies among different demographic groups. 
-            The General Social Survey is a relatively small sample, so we decided to use the Canadian long-form census, a 25% of all Canadians. We are able to identify night and evening shift workers in the 2016 Canadian Census, based on self-reported arrival time, and the classification described above. Our findings show that slightly less than 10% of Canadians were engaged in night or evening shifts, but this varies substantially for different demographic groups.
+            The General Social Survey is a relatively small sample, so we decided to use the Canadian long-form census, a 25% sample of all Canadians. We are able to identify night and evening shift workers in the 2016 Canadian Census using self-reported arrival time and the classification described above. Our findings show that slightly less than 10% of Canadians were engaged in night or evening shifts, but this varies substantially for different demographic groups.
         </p>
         <Bar variable="Overall"/>
         <p>
