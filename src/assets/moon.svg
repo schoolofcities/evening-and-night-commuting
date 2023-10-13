@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.6810382"
-     inkscape:cx="180.15409"
-     inkscape:cy="112.26994"
+     inkscape:cx="158.14769"
+     inkscape:cy="115.25386"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid2"
        units="px"
@@ -61,21 +61,21 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#6fc7ea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.282283;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#6fc7ea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.268123;stroke-linecap:round;stroke-linejoin:round"
        id="path2"
        sodipodi:type="arc"
-       sodipodi:cx="39.786968"
+       sodipodi:cx="39.778656"
        sodipodi:cy="39.6875"
-       sodipodi:rx="39.588032"
-       sodipodi:ry="39.6875"
+       sodipodi:rx="37.602177"
+       sodipodi:ry="37.696655"
        sodipodi:start="2.4117626"
        sodipodi:end="2.4090914"
        sodipodi:open="true"
        sodipodi:arc-type="arc"
-       d="M 10.282494,66.148862 A 39.588032,39.6875 0 0 1 13.372229,10.126571 39.588032,39.6875 0 0 1 69.256163,13.186656 39.588032,39.6875 0 0 1 66.241067,69.213035 39.588032,39.6875 0 0 1 10.353106,66.227778" />
+       d="m 11.754215,64.82148 a 37.602177,37.696655 0 0 1 2.934744,-53.212044 37.602177,37.696655 0 0 1 53.080628,2.906582 37.602177,37.696655 0 0 1 -2.86385,53.215927 37.602177,37.696655 0 0 1 -53.084452,-2.835507" />
     <path
        id="path1"
-       style="fill:#f1c500;fill-rule:evenodd;stroke:#f1c500;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;stroke-opacity:1"
-       d="M 39.6875 0 A 39.6875 39.6875 0 0 0 0 39.6875 A 39.6875 39.6875 0 0 0 39.6875 79.375 A 39.6875 39.6875 0 0 0 49.609375 78.041231 A 39.6875 39.6875 0 0 1 19.84375 39.6875 A 39.6875 39.6875 0 0 1 49.745284 1.3043132 A 39.6875 39.6875 0 0 0 39.6875 0 z " />
+       style="fill:#f1c500;fill-opacity:1;fill-rule:evenodd;stroke:#f1c500;stroke-width:0.251706;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 39.684177,1.9908459 A 37.696654,37.696654 0 0 0 1.9875226,39.6875 37.696654,37.696654 0 0 0 39.684177,77.384154 37.696654,37.696654 0 0 0 49.10834,76.117291 37.696654,37.696654 0 0 1 20.83585,39.6875 37.696654,37.696654 0 0 1 49.237432,3.2297307 37.696654,37.696654 0 0 0 39.684177,1.9908459 Z" />
   </g>
 </svg>

@@ -32,6 +32,9 @@
             
             <text x="0" y="13" font-size="14" fill="white">{item.Name}</text>
 
+            <text x="5" y="35" font-size="14" fill="white" stroke="white"  stroke-width="2">{roundToDecimal(item.Evening)}%</text>
+            <text x="{(item.Evening / maxPercent) * width + 5}" y="35" font-size="14" fill="white" stroke="white" stroke-width="2">{roundToDecimal(item.Night)}%</text>
+
             <rect id="eveningbar" width="{(item.Evening / maxPercent) * width}" height="20" x="0" y ="20"/>
             <rect id="nightbar" width="{(item.Night / maxPercent) * width}" height="20" x="{(item.Evening / maxPercent) * width}" y ="20"/>
             <rect id="bardivider" width="2" height="20" x="{(item.Evening / maxPercent) * width - 1}" y ="20"/>

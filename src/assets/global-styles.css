@@ -134,7 +134,7 @@ a {
 
 }
 a:hover {
-    color: var(--brandYellow);
+    color: var(--brandLightBlue);
 }
 
 .topImg {
