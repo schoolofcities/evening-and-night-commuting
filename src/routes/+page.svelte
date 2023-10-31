@@ -98,6 +98,51 @@
         </p>
         <Bar variable="Employment Sector"/>
 
+        <h2>Mapping the Geography of Shift Workers</h2>
+
+        <p>
+            Hello I am a bunch of text about maps
+        </p>
+
+    </div>
+
+    <div class="map">
+        <img src="./map-vancouver.png" alt="Map of Vancouver showing % of commuters that arrive between noon and 4am">
+        <p>Click <a href="./map-vancouver.png">here</a> to view a high-resolution version of this map</p>
+    </div>
+
+    <div class="text">
+
+        <p>
+            Hello I am some text about the maps
+        </p>
+
+    </div>
+
+    <div class="map">
+        <img src="./map-montreal.png" alt="Map of Montreal showing % of commuters that arrive between noon and 4am">
+        <p>Click <a href="./map-montreal.png">here</a> to view a high-resolution version of this map</p>
+    </div>
+
+    <div class="text">
+
+        <p>
+            Hello I am some text about the maps
+        </p>
+
+    </div>
+
+    <div class="map">
+        <img src="./map-toronto.png" alt="Map of Toronto showing % of commuters that arrive between noon and 4am">
+        <p>Click <a href="./map-toronto.png">here</a> to view a high-resolution version of this map</p>
+    </div>
+
+
+
+    
+    
+    <div class="text">
+
         <h2>Conclusions</h2>
 
         <p>
