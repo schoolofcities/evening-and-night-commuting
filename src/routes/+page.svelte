@@ -102,13 +102,13 @@
 
         <p>
             Night and evening shift workers, often from equity-deserving communities, are the backbone of many essential services in Canada. 
-        </p> 
-        <p>    
+        </p>
+        <p>
             Now is a good time to advance these conversations, as transit agencies across North America are recognizing the value of providing <a href="https://www.governing.com/transportation/transit-agencies-rethink-schedules-for-fewer-commuters">off-peak service</a> to an off-peak ridership that has recovered faster than peak hour ridership. Further, <a href="https://doi.org/10.1016/j.jtrangeo.2017.08.010">research</a> suggests that many nighttime travelers make trips that could be done on foot or bicycle, if only better street lighting and pedestrian infrastructure were available.
-        </p> 
-        <p>   
+        </p>
+        <p>
             Addressing the unique needs and challenges of shift workers and other nighttime travelers can pave the way for a more sustainable, equitable, and safe future for all.
-        </p> 
+        </p>
     </div>
 
 </main>
