@@ -107,8 +107,8 @@
     </div>
 
     <div class="map">
-        <img src="./map-vancouver.png" alt="Map of Vancouver showing % of commuters that arrive between noon and 4am">
-        <p>Click <a href="./map-vancouver.png">here</a> to view a high-resolution version of this map</p>
+        <img src="./evening-and-night-commuting/map-vancouver.png" alt="Map of Vancouver showing % of commuters that arrive between noon and 4am">
+        <p>Click <a href="./evening-and-night-commuting/map-vancouver.png">here</a> to view a high-resolution version of this map</p>
     </div>
 
     <div class="text">
@@ -120,8 +120,8 @@
     </div>
 
     <div class="map">
-        <img src="./map-montreal.png" alt="Map of Montreal showing % of commuters that arrive between noon and 4am">
-        <p>Click <a href="./map-montreal.png">here</a> to view a high-resolution version of this map</p>
+        <img src="./evening-and-night-commuting/map-montreal.png" alt="Map of Montreal showing % of commuters that arrive between noon and 4am">
+        <p>Click <a href="./evening-and-night-commuting/map-montreal.png">here</a> to view a high-resolution version of this map</p>
     </div>
 
     <div class="text">
@@ -133,8 +133,8 @@
     </div>
 
     <div class="map">
-        <img src="./map-toronto.png" alt="Map of Toronto showing % of commuters that arrive between noon and 4am">
-        <p>Click <a href="./map-toronto.png">here</a> to view a high-resolution version of this map</p>
+        <img src="./evening-and-night-commuting/map-toronto.png" alt="Map of Toronto showing % of commuters that arrive between noon and 4am">
+        <p>Click <a href="./evening-and-night-commuting/map-toronto.png">here</a> to view a high-resolution version of this map</p>
     </div>
 
 
