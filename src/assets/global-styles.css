@@ -159,7 +159,7 @@ a:hover {
   
 .map img {
     max-width: 100%; /* Ensures the image won't exceed the container's width */
-    border: solid 1px var(--brandGray70);
+    border: solid 1px #999999;
     height: auto; /* Maintains the image's aspect ratio */
   }
   
