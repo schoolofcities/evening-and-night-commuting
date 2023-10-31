@@ -153,25 +153,26 @@ a:hover {
 
 .map {
     max-width: 1200px;
-    margin: 0 auto; /* Center the container on the page if needed */
-    
-  }
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
   
 .map img {
-    max-width: 100%; /* Ensures the image won't exceed the container's width */
+    max-width: 100%; 
     border: solid 1px #999999;
-    height: auto; /* Maintains the image's aspect ratio */
-  }
+    height: auto;
+}
   
-  /* Media query for screens smaller than 1000px */
-  @media (max-width: 1200px) {
-    .map {
-      width: 100%; /* Make the container expand to full width */
-    }
-  }
 
-  .map p {
+@media (max-width: 1200px) {
+    .map {
+        width: 100%; 
+    }
+}
+
+.map p {
     font-size: 12px;
     text-align: center;
     margin: auto 0;
-  }
+}

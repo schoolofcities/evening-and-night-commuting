@@ -101,7 +101,7 @@
         <h2>Mapping the Geography of Shift Workers</h2>
 
         <p>
-            Hello I am a bunch of text about maps
+            The Canadian Census offers commuting data by time of day at the Dissemination Area (i.e. small neighbourhood) level. However, in this data the entire off-peak is lumped into one period: people who arrived at work between noon and 4am. We plot the share of people who commute at these times as a percent of all out-of-home commuters in the following figures. The first shows high concentrations of shift workers living in southeast Vancouver, as well as the suburbs of Surrey and Langley. 
         </p>
 
     </div>
@@ -114,7 +114,7 @@
     <div class="text">
 
         <p>
-            Hello I am some text about the maps
+            In Montreal, shift workers are more prevalent in the north of island and in the suburb of Longueuil.  Additionally, neighbourhoods on the very south end of Montreal, such as LaSalle, are home to relatively higher concentrations of shift workers.
         </p>
 
     </div>
@@ -127,7 +127,7 @@
     <div class="text">
 
         <p>
-            Hello I am some text about the maps
+            Shift workers are more likely to live in suburban areas of the Greater Toronto Area, specifically Scarborough in the east, and Brampton and northern Etobicoke to the west. The latter concentrations are clustered near Toronto Pearson International Airport, which employs a significant number of shift workers and supports night-shift heavy employment in warehousing and logistics.
         </p>
 
     </div>
